@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TECHNOTIT
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python, html
+- 🌱 I’m currently learning python, HTML
 - 📫 How to reach me technotit6@gmail.com
 
 <!---
