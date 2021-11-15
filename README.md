@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TECHNOTIT
+- 👋 Hi, I’m @TECHNOTIT https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python, html
 - 📫 How to reach me technotit6@gmail.com
