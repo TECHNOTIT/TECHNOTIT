@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TECHNOTIT
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python, HTML
+- 🌱 Passion in Coding and Hacking 🔥☠️
+- ⚠️ Be positive
 - 📫 reach me technotit6@gmail.com
 <!---
 TECHNOTIT/TECHNOTIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
